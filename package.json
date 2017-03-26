@@ -1,0 +1,12 @@
+{
+  "name": "todos",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "express": "~4.13.1",
+    "mongodb": "^2.1.19",
+    "mongoose": "^4.4.19"
+  }
+}
